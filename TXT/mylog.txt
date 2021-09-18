@@ -14,4 +14,9 @@ ZCZC W01 30 L13 Assignment #03
 ZCZC W01 35 L14 Assignment #04
 ZCZC W01 10 L15 Assignment #05
 ZCZC W01 10 L17 Assignment #07
-Test
+ZCZC W02 100 L02 ZOOM meetings related W02 meeting
+ZCZC W02 30 L14 Assignment #04
+ZCZC W02 15 L15 Assignment #05
+ZCZC W02 30 L16 Assignment #06
+ZCZC W02 15 L17 Assignment #07
+ZCZC W02 30 L18 Assignment #08
