@@ -9,3 +9,5 @@ permalink: /LINKS/
 3. [Basic C Programming Introduction](https://fresh2refresh.com/c-programming/c-basic-program/) , A very useful site if you want to quickly study the basics of C language
 
 4. [Introduction to Filesystems (Linux)](https://opensource.com/life/16/10/introduction-linux-filesystems), This site explain the concepts of Linux filesystem. The definition, functions, structure, and other stuff related to filesystems.
+
+5. [Linux Commands Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html), A Linux command cheat sheet that includes basic commands, file permission, environment variables, user management, networking, and process command.
