@@ -13,3 +13,7 @@ permalink: /LINKS/
 5. [Linux Commands Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html), A Linux command cheat sheet that includes basic commands, file permission, environment variables, user management, networking, and process command.
 
 6. [C Programming Pointers](https://www.guru99.com/c-pointers.html), A brief explanation about pointers in C programming language.
+
+7. [What is Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory), This site explains what is virtual memory, how virtual memory works, and other explanations regarding virtual memory.
+
+8. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/), The virtual memory in operating system.
