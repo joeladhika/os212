@@ -21,3 +21,5 @@ permalink: /LINKS/
 9. [Concurrency in Operating System](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency#:~:text=in%20Operating%20System-,Concurrency%20in%20Operating%20System,memory%20or%20through%20message%20passing.), An introduction to concurrency in operating system.
 
 10. [Fork in C Programming](https://www.section.io/engineering-education/fork-in-c-programming-language/), What is fork()?
+
+11. [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux), A short explanation of Process Synchronization in Linux
