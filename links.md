@@ -27,3 +27,5 @@ permalink: /LINKS/
 12. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/), An article about what semaphore is in process synchronization.
 
 13. [Deadlock..?](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/), An introduction to deadlock in operating system.
+
+14. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/), CPU Scheduling in Operating Systems.
