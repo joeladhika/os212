@@ -81,3 +81,7 @@ ZCZC W09 30 L17 Assignment #07
 ZCZC W09 10 L18 Assignment #08
 ZCZC W09 120 L14 Assignment #04
 ZCZC W09 10 L19 Assignment #09 
+ZCZC W10 20 L11 Assignment #01
+ZCZC W10 30 L17 Assignment #07
+ZCZC W10 10 L18 Assignment #08
+ZCZC W10 10 L19 Assignment #09 
